@@ -12,6 +12,6 @@
 ### Lessons learned:
 A simple imperative language. The syntax reminds me a bit too much of Ruby and
 Lua (end end end end end), which I am not particularly fond of. It does provide
-some basic FP support, and it looks like there was some notion of null safety in
-there, both of which is nice. To me, this language was familiar and easy to pick
-up.
+some basic FP support, type inference, and it looks like there was some notion of
+null safety in there as well, all of which is nice. To me, this language was
+familiar and easy to pick up.
