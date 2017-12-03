@@ -7,7 +7,7 @@
 
 ### Language Experience:
 
-1 [See this link for explanation](https://github.com/okkero/Advent-of-Code-2017-random-lang/blob/master/README.md)
+0 [See this link for explanation](https://github.com/okkero/Advent-of-Code-2017-random-lang/blob/master/README.md)
 
 ### Lessons learned:
 A simple imperative language. The syntax reminds me a bit too much of Ruby and
