@@ -7,7 +7,7 @@
 
 ### Language Experience:
 
-1 [See this link for explaination](https://github.com/okkero/Advent-of-Code-2017-random-lang/blob/master/README.md)
+1 [See this link for explanation](https://github.com/okkero/Advent-of-Code-2017-random-lang/blob/master/README.md)
 
 ### Lessons learned:
 Before I started today's challenge, I had the mindset that OCaml would be no
